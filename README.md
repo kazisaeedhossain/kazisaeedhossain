@@ -21,16 +21,16 @@
   </a>  
 </p>
 <p>
-## 🛠️ Currently Learning
+🔬 Current Learning & Research Focus
 
-I am focusing on strengthening my skills in:
+I am currently strengthening my foundation in Artificial Intelligence and Machine Learning, with a focus on:
 
-- 🐍 Python
-- 📐 Mathematics for Machine Learning
-- 📊 Machine Learning
-- 🧠 Deep Learning
-- 🔬 Research Methodology
-- 📝 Scientific Writing & Communication
+🐍 Python & AI/ML Programming
+📐 Mathematics for Machine Learning
+📊 Machine Learning & Deep Learning
+👁️ Computer Vision
+🔬 AI/ML Research Methodology
+📝 Scientific Writing & Communication
 </p>
 
 <h3 align="left">Connect with me:</h3>
