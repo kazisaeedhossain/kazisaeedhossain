@@ -20,6 +20,27 @@
     <img src="https://img.shields.io/badge/Toptal-Profile-blue?logo=toptal&style=for-the-badge" alt="Toptal" />
   </a>  
 </p>
+<p>
+  My long-term research goal is to contribute to the intersection of **Artificial Intelligence and Healthcare**, particularly in:
+
+- Medical Imaging
+- AI-assisted Diagnosis
+- Intelligent Clinical Systems
+- Computer Vision for Healthcare
+- Multimodal Medical AI
+- Explainable & Trustworthy AI
+
+## 🛠️ Currently Learning
+
+I am focusing on strengthening my skills in:
+
+- 🐍 Python
+- 📐 Mathematics for Machine Learning
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- 🔬 Research Methodology
+- 📝 Scientific Writing & Communication
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
