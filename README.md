@@ -25,12 +25,12 @@
 
 I am currently strengthening my foundation in Artificial Intelligence and Machine Learning, with a focus on:
 
-🐍 Python & AI/ML Programming
-📐 Mathematics for Machine Learning
-📊 Machine Learning & Deep Learning
-👁️ Computer Vision
-🔬 AI/ML Research Methodology
-📝 Scientific Writing & Communication
+🐍 Python & AI/ML Programming</br>
+📐 Mathematics for Machine Learning</br>
+📊 Machine Learning & Deep Learning</br>
+👁️ Computer Vision</br>
+🔬 AI/ML Research Methodology</br>
+📝 Scientific Writing & Communication</br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
