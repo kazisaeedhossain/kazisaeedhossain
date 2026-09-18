@@ -21,15 +21,6 @@
   </a>  
 </p>
 <p>
-  My long-term research goal is to contribute to the intersection of **Artificial Intelligence and Healthcare**, particularly in:
-
-- Medical Imaging
-- AI-assisted Diagnosis
-- Intelligent Clinical Systems
-- Computer Vision for Healthcare
-- Multimodal Medical AI
-- Explainable & Trustworthy AI
-
 ## 🛠️ Currently Learning
 
 I am focusing on strengthening my skills in:
